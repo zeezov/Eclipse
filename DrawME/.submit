@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project 2: Flag Maker
+
+courseName=CMSC131
+semester=201601
+projectNumber=2
+courseKey=36e19645a2bac3d7
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2016
+submitURL=https://submit.cs.umd.edu:443/spring2016/eclipse/SubmitProjectViaEclipse
